@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SnakeGame()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Board\r\n
+comment1.params=
+comment1.target=void\ update()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \ that\ describes\ the\ operation\ of\ the\ method\r\n\r\n\ @pre\ \ \ \ \ preconditions\ for\ the\ method\r\n\ \ \ \ \ \ \ \ \ \ (what\ the\ method\ assumes\ about\ the\ method's\ parameters\ and\ class's\ state)\r\n\ @post\ \ \ \ postconditions\ for\ the\ method\r\n\ \ \ \ \ \ \ \ \ \ (what\ the\ method\ guarantees\ upon\ completion)\r\n\ @param\ \ \ y\ \ \ description\ of\ parameter\ y\r\n\ @return\ \ description\ of\ the\ return\ value\r\n
+comment2.params=dx\ dy
+comment2.target=void\ setDXDY(int,\ int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \ that\ describes\ the\ operation\ of\ the\ method\r\n\r\n\ @pre\ \ \ \ \ preconditions\ for\ the\ method\r\n\ \ \ \ \ \ \ \ \ \ (what\ the\ method\ assumes\ about\ the\ method's\ parameters\ and\ class's\ state)\r\n\ @post\ \ \ \ postconditions\ for\ the\ method\r\n\ \ \ \ \ \ \ \ \ \ (what\ the\ method\ guarantees\ upon\ completion)\r\n\ @param\ \ \ y\ \ \ description\ of\ parameter\ y\r\n\ @return\ \ description\ of\ the\ return\ value\r\n
+numComments=4
